@@ -123,9 +123,9 @@ body {
   #main-title {
     font-size: var(--main-title-fs-phone-screen);
   }
-  .articles {
-    width: 85%;
-  }
+
+  
+  .articles,
   .wrapper-article {
     width: 85%;
   }
